@@ -7,4 +7,12 @@ Credit risk poses a classification problem that’s inherently imbalanced. The r
 ## What is created?
 Using the knowledge learnt from imbalanced-learn library and the logistic regression model, comparison of two dataset versions will be done. First, the original dataset. Second, resampling the data by using the RandomOverSampler module from the imbalanced-learn library. In doing so this will help find the target classes, training a logistic regression classifier, the calculation of the balanced accuracy score, a generation of a confusion matrix, and a classification report. 
 
+## Steps:
+
+- Split the Data into Training and Testing Sets
+- Create a Logistic Regression Model with the Original Data
+- Predict a Logistic Regression Model with Resampled Training Data
+- Write a Credit Risk Analysis Report
+
+## Risk Analysis Report
 
